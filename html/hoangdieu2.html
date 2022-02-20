@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nhà trọ đường Hoàng Diệu 2</title>
+    <link rel="icon" href="../img/logo-ngoaitru.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/streets.css">
+    <link rel="stylesheet" href="../css/grid.css">
+    <link rel="stylesheet" href="../font/fontawesome-free-5.15.3-web/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bungee&display=swap" rel="stylesheet">    
+</head>
+<body>
+    <!-- Chatbox -->
+    <div id="fb-root"></div>
+    <div id="fb-customer-chat" class="fb-customerchat"></div>
+    <div id="main">
+        <div id="header">
+            <div class="logo"><img src="../img/Header/logo.png" alt=""></div>
+            <div class="logo-lch"><img src="../img/Header/logo-lch.png" alt=""></div>
+        </div>
+        <div id="content">
+            <img src="../img/Street/bg.png" alt="" class="bg-title">
+            <div class="grid wide">
+                <a class="back" href="../index.html"><i class="fas fa-arrow-left"></i>Quay lại trang chủ</a>
+                <img src="../img/Street/DangVanBi/bangten.jpg" alt="" class="street-name">
+                <div class="sort">
+                    <span><i class="fas fa-filter"></i>Lọc nhà trọ theo </span>
+                    <div>
+                        <button class="sort-btn" id="sort-giaphong">Giá phòng</button>
+                        <button class="sort-btn" id="sort-khoangcach">Khoảng cách đến trường</button>
+                    </div>
+                </div>
+                <p class="feedback">Nếu thông tin có sai sót, vui lòng góp ý tại <a href="">đây.</a></p>
+                <div class="room-state">
+                    Còn <div class="quantity-availble"></div> nhà trọ còn phòng</div>
+                <div>
+                    <div class="row street-list street-list-availble">
+                        
+                    </div>
+                </div>
+                <div class="room-state">
+                    <div class="quantity-unavailble"></div> nhà trọ hết phòng</div>
+                <div>
+                <div>
+                    <div class="row street-list street-list-unavailble">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+            <div class="grid wide">
+                <div class="footer_up">
+                    <div class="footer_up-item" style="flex: 0 0 60%;">
+                        <div class="footer__up-item--head">Đơn vị LCH Sinh viên Ngoại trú</div>
+                        <p>"Liên chi Hội Sinh viên Ngoại trú luôn đồng hành cùng sinh viên"</p>
+                    </div>
+                    <div class="footer_up-item" style="flex: 0 0 40%;">
+                        <div class="footer__up-item--head">Thông tin liên hệ</div>
+                        <ul>
+                            <li><a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCHrglXcHfpwQcKvlPPNXNwmhgzQgDHTrPkNllPCzsbjCKsClQwRGclqjPWwNhNsbMKGjKbq">Email</a></li>
+                            <li><a href="https://www.facebook.com/LCHSVNgoaiTruSPKT">Facebook</a></li>
+                            <li><a href="https://vt.tiktok.com/ZSebo66Ur/">Tiktok</a></li>
+                            <li><a href="#">SĐT: 0337773955</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <hr>
+                <div class="footer_down">
+                    <p class="copyright-text">Copyright &copy; 2022 All Rights Reserved by LCH Sinh viên Ngoại trú</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="loader-wapper">
+        <div class="loader">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+    </div>
+    <script src="../js/chatbox.js"></script>
+    <script type="module" src="../JSRender/data/hoangdieu2/RenderHomes.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('.list-img').slick({
+                infinite: true,
+                speed: 600,
+                prevArrow:"<button type='button' class='slick-prev pull-left'><i style='font-size: 30px;' class='fa fa-angle-left' aria-hidden='true'></i></button>",
+                nextArrow:"<button type='button' class='slick-next pull-right'><i style='font-size: 30px;' class='fa fa-angle-right' aria-hidden='true'></i></button>"
+            });
+        });
+    </script>
+
+</body>
+</html>

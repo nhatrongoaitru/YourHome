@@ -1,0 +1,119 @@
+.main {
+    overflow: hidden;
+}
+
+/* HEADER */
+#header {
+    z-index: 2;
+    height: 125px;
+    width: 100%;
+    position: fixed;
+    padding: 0 60px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    background-color: #183059;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url(../img/Header/header_dai.jpg);
+    background-size: 100%;
+}
+
+.logo img {
+    width: 250px;
+}
+
+.logo-lch img {
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+}
+
+
+/* CONTENT__PLACE*/
+.bg-title {
+    position: absolute;
+    width: 80%;
+    top: 10%;
+    z-index: -1;
+}
+#content {
+    background-color: rgba(38, 0, 255, 0.15);;
+}
+.content__place {
+    margin-bottom: 70px;
+    padding-top: 200px;
+}
+
+
+.content__place-list::-webkit-scrollbar {
+    display: none;
+}
+
+.content__place-list {
+    list-style: none;
+}
+
+
+.content__place-item {
+    position: relative;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content__place-item img {
+    width: 100%;
+    height: 350px;
+    padding: 0 5px;
+    border-radius: 20px
+}
+
+.content__place-item--text {
+    position: absolute;
+    color: white;
+}
+
+.content__place-item--text span {
+    font-size: 1.6rem;
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+/* CONTENT__ACTIVIES*/
+.content__activities {
+    padding-bottom: 70px;
+}
+.content__activities-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content__activities-item>img {
+    width: 100%;
+    height: 260px;
+    border-radius: 10px;
+    margin-top: 6px;
+}
+
+.content__activities-item a {
+    font-size: 20px;
+    text-align: center;
+    line-height: 25px;
+    text-decoration: none;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    color: black;
+}
+
+.footer_up-item a:hover,
+.content__activities-item a:hover {
+    color: #F65E39 !important;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 0.8s;
+}
+
+

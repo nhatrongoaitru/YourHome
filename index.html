@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang chủ</title>
+    <link rel="icon" href="./img/logo-ngoaitru.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/grid.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/table.css">
+    <link rel="stylesheet" href="css/countdown.css">
+    <link rel="stylesheet" href="./css/slick.css">
+    <link rel="stylesheet" href="font/fontawesome-free-5.15.3-web/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Chatbox -->
+    <div id="fb-root"></div>
+    <div id="fb-customer-chat" class="fb-customerchat"></div>
+
+        
+    <div id="main">
+        <div id="header">
+            <div class="logo"><img src="./img/Header/logo.png" alt=""></div>
+            <div class="logo-lch"><img src="./img/Header/logo-lch.png" alt=""></div>
+            <div class="container_countdown">
+                <div id="timer"></div>
+                <h1>Kết thúc thời gian, dữ liệu sẽ được cập nhật</h1>
+            </div>
+        </div>
+
+        <div id="content">
+            <img src="./img/Street/bg.png" alt="" class="bg-title">
+            <div class="grid wide">
+                <div class="content__place">
+                    <div class="content__title">
+                        <h3 class="content__heading">Tìm nhà trọ</h3>
+                        <div class="content__heading-sub">
+                            Những đường gần trường ĐH SPKT TP.HCM
+                        </div>
+                    </div>
+                    <div class="content__place-list">
+                        
+                    </div>
+                </div>
+
+                <div class="content__activities">
+                    <div class="content__title">
+                        <h3 class="content__heading">Các hoạt động của LCH Sinh viên Ngoại Trú</h3>
+                        <div class="content__heading-sub">
+                            Đây là các hoạt động diễn ra trong năm học 2021-2022
+                        </div>
+                    </div>
+                    <div class="table">
+                        <div class="table-header">
+                            <div class="header__item"><div id="name" class="filter__link">STT</div></div>
+                            <div class="header__item"><div id="wins" class="filter__link filter__link--number">Tên hoạt động</div></div>
+                            <div class="header__item"><div id="draws" class="filter__link filter__link--number">Trạng thái</div></div>
+                            
+                        </div>
+                        <div class="table-content">	
+                           
+                        </div>	
+                    </div>
+                    <h3 class="content__heading-center">Các hoạt động đã và đang diễn ra</h3>
+                    <div class="content__activities-list">
+                      
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="footer">
+            <div class="grid wide">
+                <div class="footer_up">
+                    <div class="footer_up-item" style="flex: 0 0 60%;">
+                        <div class="footer__up-item--head">Đơn vị LCH Sinh viên Ngoại trú</div>
+                        <p>"Liên chi Hội Sinh viên Ngoại trú luôn đồng hành cùng sinh viên"</p>
+                    </div>
+                    <div class="footer_up-item" style="flex: 0 0 40%;">
+                        <div class="footer__up-item--head">Thông tin liên hệ</div>
+                        <ul>
+                            <li><a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCHrglXcHfpwQcKvlPPNXNwmhgzQgDHTrPkNllPCzsbjCKsClQwRGclqjPWwNhNsbMKGjKbq">Email</a></li>
+                            <li><a href="https://www.facebook.com/LCHSVNgoaiTruSPKT">Facebook</a></li>
+                            <li><a href="https://vt.tiktok.com/ZSebo66Ur/">Tiktok</a></li>
+                            <li><a href="#">SĐT: 0337773955</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <hr>
+                <div class="footer_down">
+                    <p class="copyright-text">Copyright &copy; 2022 All Rights Reserved by LCH Sinh viên Ngoại trú</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="./js/chatbox.js"></script>
+    <script src="./js/countdown.js"></script>
+    <script type="module" src="./JSRender/RenderIndex.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('.content__place-list').slick({
+                slidesToShow: 4,
+                slidesToScroll: 1,
+                infinite: false,
+                speed: 600,
+                prevArrow:"<button type='button' class='slick-prev pull-left'><i style='font-size: 30px;' class='fa fa-angle-left' aria-hidden='true'></i></button>",
+                nextArrow:"<button type='button' class='slick-next pull-right'><i style='font-size: 30px;' class='fa fa-angle-right' aria-hidden='true'></i></button>"
+            });
+        });
+    </script>
+</body>
+</html>

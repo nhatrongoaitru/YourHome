@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700|Montserrat:900");
+.container_countdown {
+  height: 125px;
+}
+
+h1 {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  margin-top: 1.5em;
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #F6F4F3;
+}
+
+#timer {
+  color: #F6F4F3;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Lato", sans-serif;
+  font-size: 0.7em;
+  letter-spacing: 5px;
+  margin-top: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.days, .hours, .minutes, .seconds {
+  width: 100px;
+  height: 60px;
+  border-radius: 5px;
+  margin: 0 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.days {
+  background: #EF2F3C;
+}
+
+.hours {
+  background: #F6F4F3;
+  color: #183059;
+}
+
+.minutes {
+  background: #276FBF;
+}
+
+.seconds {
+  background: #F0A202;
+}
+.numbers {
+  font-family: "Montserrat", sans-serif;
+  color: #183059;
+  font-size: 3em;
+  padding: 10px 0;
+}
+
