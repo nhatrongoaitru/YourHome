@@ -4,7 +4,8 @@ function homes() {
         {
             img_phong: {
                 img1: "../img/Street/DangVanBi/dangvanbi-1.jpg",
-                img2: "../img/Street/DangVanBi/dangvanbi-2.jpg"
+                img2: "../img/Street/DangVanBi/dangvanbi-2.jpg",
+                img3: "../img/Street/NhaTroTrong.jpg",
             },
             address: "Số 167, phường Linh Trung",
             map: false,
