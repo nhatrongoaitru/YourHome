@@ -7,7 +7,7 @@ function homes() {
                 img2: "../img/Street/DangVanBi/dangvanbi-2.jpg",
                 img3: "../img/Street/NhaTroTrong.jpg",
             },
-            address: "Số 167, phường Linh Trung",
+            address: "Số 54 đường số 8",
             map: false,
             distance: 2.7,
             info: {
@@ -28,7 +28,7 @@ function homes() {
             },
             name_chu: "Lê Hải Đăng",
             phone_chu: "0868366694",
-            state: false
+            state: true
         },
 
         {
@@ -36,7 +36,7 @@ function homes() {
                 img1: "../img/Street/DangVanBi/dangvanbi-1.jpg",
                 img2: "../img/Street/DangVanBi/dangvanbi-2.jpg"
             },
-            address: "Số 167, phường Linh Trung",
+            address: "Phường linh trung",
             map: true,
             distance: 2.7,
             info: {
@@ -57,7 +57,7 @@ function homes() {
             },
             name_chu: "Lê Hải Đăng",
             phone_chu: "0868366694",
-            state: false
+            state: true
         },
        
 
@@ -66,7 +66,7 @@ function homes() {
                 img1: "../img/Street/DangVanBi/dangvanbi-1.jpg",
                 img2: "../img/Street/DangVanBi/dangvanbi-2.jpg"
             },
-            address: "Số 167, phường Linh Trung",
+            address: "Thành phố thủ đức",
             map: true,
             distance: 2.7,
             info: {
@@ -95,7 +95,7 @@ function homes() {
                 img1: "../img/Street/DangVanBi/dangvanbi-1.jpg",
                 img2: "../img/Street/DangVanBi/dangvanbi-2.jpg"
             },
-            address: "Số 167, phường Linh Trung",
+            address: "xã An Hòa",
             map: true,
             distance: 2.7,
             info: {

@@ -10,7 +10,7 @@ const app = {
         arrHomes.map((item) => {
             if (item.state) {
                 room_avail.push(`
-                    <div class="col c-6">
+                    <div class="col c-6" data-sst>
                     <div class="street-item">
                     <div class="address-and-map">
                     <div class="address">
@@ -154,3 +154,15 @@ document.getElementById("sort-khoangcach").addEventListener("click", function ()
     loader();
     app.start();
 })  
+
+
+const arr = document.querySelectorAll("[data-sst]")
+console.log(arr)
+document.querySelector("[data-search]").addEventListener("input", e => {
+    const value = e.target.value.toLowerCase()
+    console.log(value)
+    arr.forEach(ele => {
+        const isVisible = ele.outerText.toLowerCase().includes(value)
+        ele.classList.toggle("hide", !isVisible)
+    })            
+})
