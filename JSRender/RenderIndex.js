@@ -4,7 +4,8 @@ import activities from './data/activities.js'
 
 const app = {
     renderStreets: function() {
-        const html = Object.values(streets()).map((item) => {
+        const arr = Object.values(streets()).sort((a,b) => b.quantity - a.quantity)
+        const html = arr.map((item) => {
             return `
                     <a target="_blank" rel="noopener noreferrer" href=${item.href}>
                         <li class="content__place-item">

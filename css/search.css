@@ -16,6 +16,7 @@ input#search-bar {
   font-size: 2rem;
   border: 1px solid #D0CFCE;
   outline: none;
+  border-radius: 10px;
 }
 input#search-bar:focus {
   border: 1px solid #008ABF;
