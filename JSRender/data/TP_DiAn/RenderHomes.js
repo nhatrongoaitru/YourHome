@@ -7,6 +7,9 @@ const room_unavail = [];
 
 const app = {
     start: function() {
+        
+        const room_avail = [];
+        const room_unavail = [];
         arrHomes.map((item) => {
             if (item.state) {
                 room_avail.push(`
@@ -16,7 +19,7 @@ const app = {
                     <div class="address">
                     <h2>${item.address} (cách trường ${item.distance} km)</h2>
                     </div>
-                    <a href="" style="text-decoration: none;" class="btn-map"><i class="fas fa-map-marked-alt"></i></a>
+                    <a href="${item.map}" style="text-decoration: none;" class="btn-map"><i class="fas fa-map-marked-alt"></i></a>
                     </div>
                         <div class="info-home">
                         <div class="list-img">
@@ -28,20 +31,20 @@ const app = {
                                 <div class="info-home-detail">
                                 <ul>
                                 <li><i class="fas fa-home"></i><span>Giá phòng: </span>${item.info.giaphong} đồng/tháng</li>
-                                <li><i class="fas fa-bolt"></i><span>Điện: </span>${item.info.dien} đồng/kí</li>
+                                <li><i class="fas fa-bolt"></i><span>Điện: </span>${item.info.dien}</li>
                                         <li><i class="fas fa-tint"></i><span>Nước: </span>${item.info.nuoc}</li>
                                         <li><i class="fas fa-motorcycle"></i><span>Gửi xe: </span> ${item.info.xe}</li>
                                         <li><i class="fas fa-wifi"></i><span>Wifi: </span>${item.info.wifi}</li>
                                         <li><i class="fas fa-wind"></i><span>Máy lạnh: </span> ${item.info.maylanh}</li>
-                                        <li><i class="fas fa-recycle"></i><span>Rác: </span>{item.info.rac}</li>
+                                        <li><i class="fas fa-recycle"></i><span>Rác: </span>${item.info.rac}</li>
                                         
                                         <br>
                                         <li style="color: #408E9D; font-weight: 700;">Mô tả về nhà trọ: </li>
-                                        <li style="padding-left: 10px;">đâsđâs</li>
-                                        <li style="padding-left: 10px;">đâsđâs</li>
-                                        <li style="padding-left: 10px;">đâsđâs</li>
-                                        <li style="padding-left: 10px;">đâsđâs</li>
-                                        <li style="padding-left: 10px;">đâsđâs</li>
+                                        <li style="padding-left: 10px;">${item.info.description.mt1}</li>
+                                        <li style="padding-left: 10px;">${item.info.description.mt2}</li>
+                                        <li style="padding-left: 10px;">${item.info.description.mt3}</li>
+                                        <li style="padding-left: 10px;">${item.info.description.mt4}</li>
+                                        <li style="padding-left: 10px;">${item.info.description.mt5}</li>
                                         
                                     </ul>
                                     </div>
@@ -49,8 +52,8 @@ const app = {
                             </div>
                             <div class="avatar">
                             <div class="info-admin">
-                                <div class="name"><i class="far fa-address-card"></i>${item.name_chu}</div>
-                                <div class="phone"><i class="fas fa-phone-alt"></i>${item.phone_chu}</div>
+                                <div class="name"><i class="far fa-address-card"></i>${item.name_chu != '' ? item.name_chu : "Đang cập nhật"}</div>
+                                <div class="phone"><i class="fas fa-phone-alt"></i>${item.phone_chu != '' ? item.phone_chu : "Đang cập nhật"}</div>
                                 </div>
                         </div>
                         </div>
@@ -64,7 +67,7 @@ const app = {
                 <div class="address">
                 <h2>${item.address} (cách trường ${item.distance} km)</h2>
                 </div>
-                <a href="" style="text-decoration: none;" class="btn-map"><i class="fas fa-map-marked-alt"></i></a>
+                <a href="${item.map}" style="text-decoration: none;" class="btn-map"><i class="fas fa-map-marked-alt"></i></a>
                 </div>
                     <div class="info-home">
                     <div class="list-img">
@@ -76,20 +79,20 @@ const app = {
                             <div class="info-home-detail">
                             <ul>
                             <li><i class="fas fa-home"></i><span>Giá phòng: </span>${item.info.giaphong} đồng/tháng</li>
-                            <li><i class="fas fa-bolt"></i><span>Điện: </span>${item.info.dien} đồng/kí</li>
+                            <li><i class="fas fa-bolt"></i><span>Điện: </span>${item.info.dien}</li>
                                     <li><i class="fas fa-tint"></i><span>Nước: </span>${item.info.nuoc}</li>
                                     <li><i class="fas fa-motorcycle"></i><span>Gửi xe: </span> ${item.info.xe}</li>
                                     <li><i class="fas fa-wifi"></i><span>Wifi: </span>${item.info.wifi}</li>
                                     <li><i class="fas fa-wind"></i><span>Máy lạnh: </span> ${item.info.maylanh}</li>
-                                    <li><i class="fas fa-recycle"></i><span>Rác: </span>{item.info.rac}</li>
+                                    <li><i class="fas fa-recycle"></i><span>Rác: </span>${item.info.rac}</li>
                                     
                                     <br>
                                     <li style="color: #408E9D; font-weight: 700;">Mô tả về nhà trọ: </li>
-                                    <li style="padding-left: 10px;">đâsđâs</li>
-                                    <li style="padding-left: 10px;">đâsđâs</li>
-                                    <li style="padding-left: 10px;">đâsđâs</li>
-                                    <li style="padding-left: 10px;">đâsđâs</li>
-                                    <li style="padding-left: 10px;">đâsđâs</li>
+                                    <li style="padding-left: 10px;">${item.info.description.mt1}</li>
+                                    <li style="padding-left: 10px;">${item.info.description.mt2}</li>
+                                    <li style="padding-left: 10px;">${item.info.description.mt3}</li>
+                                    <li style="padding-left: 10px;">${item.info.description.mt4}</li>
+                                    <li style="padding-left: 10px;">${item.info.description.mt5}</li>
                                     
                                 </ul>
                                 </div>
@@ -97,8 +100,9 @@ const app = {
                         </div>
                         <div class="avatar">
                         <div class="info-admin">
-                            <div class="name"><i class="far fa-address-card"></i>${item.name_chu}</div>
-                            <div class="phone"><i class="fas fa-phone-alt"></i>${item.phone_chu}</div>
+                            <div class="name"><i class="far fa-address-card"></i>${item.name_chu != '' ? item.name_chu : "Đang cập nhật"}</div>
+                            <div class="phone"><i class="fas fa-phone-alt"></i>${item.phone_chu != '' ? item.phone_chu : "Đang cập nhật"}</div>
+                            </div>
                             </div>
                     </div>
                     </div>
@@ -144,6 +148,7 @@ document.getElementById("sort-giaphong").addEventListener("click", function () {
     slick();
     loader();
     app.start();
+    
 })   
 
 document.getElementById("sort-khoangcach").addEventListener("click", function () {

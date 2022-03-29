@@ -1,19 +1,19 @@
-import dangvanbi from './dangvanbi/homes.js'
+import TP_DiAn from './TP_DiAn/homes.js'
 
 
 
-var  arrHomes_DangVanBi = Object.values(dangvanbi()).length
+var  quantity_DiAn = Object.values(TP_DiAn()).length
 
 
 function streets() {
     return streets =
     [
         {
-            name: "Đặng Văn Bi",
-            quantity: arrHomes_DangVanBi,
+            quantity: quantity_DiAn,
             img: "./img/Street/DangVanBi.jpg",
-            href: "./html/dangvanbi.html"
+            href: "./html/TP_DiAn.html"
         },
+
     ]
 }
 
