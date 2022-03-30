@@ -53,8 +53,6 @@ function homes() {
                     mt1: "Diện tích phòng",
                     mt2: "3tr3-3tr5: 25m2 có gác, 2 cửa sổ",
                     mt3: "4tr: 35m2 có gác, 2 cửa sổ trời",
-                    mt4: "",
-                    mt5: ""
                 }
             },
             name_chu: "Chị Trang ",
@@ -82,9 +80,6 @@ function homes() {
                 description: {
                     mt1: "- Diện tích: 20m2",
                     mt2: "- không gác",
-                    mt3: "",
-                    mt4: "",
-                    mt5: ""
                 }
             },
             name_chu: "Chị Trang",
@@ -114,7 +109,6 @@ function homes() {
                     mt2: "- Có thể ở được 5 người",
                     mt3: "- Có chỗ để xe",
                     mt4: "- Giờ giấc tự do",
-                    mt5: ""
                 }
             },
             name_chu: "Anh Tuấn",
@@ -122,36 +116,7 @@ function homes() {
             state: true,
         },
             
-        {
-            img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
-            },
-            address: "Đường Linh Đông, phường Linh Đông",
-            map: " "   ,
-            distance: "",
-            info: {
-                giaphong: 3000000,
-                dien: "",
-                nuoc: "",
-                xe: "",
-                wifi: "",
-                maylanh: "",
-                rac: "",
-                description: {
-                    mt1: "- Diện tích phòng: 14m2",
-                    mt2: "- Sạch sẽ, thoáng mát",
-                    mt3: "- Có thể ở được 4 người",
-                    mt4: "",
-                    mt5: ""
-                }
-            },
-            name_chu: "Chú Vương",
-            phone_chu: "0937078735",
-            state: true,
-        },
-
+        
         {
             img_phong: {
                 img1: "../../../img/Street/NhaTroTrong.jpg" ,
@@ -173,8 +138,6 @@ function homes() {
                     mt1: "- Diện tích phòng: 16m2",
                     mt2: "- Cách trường 8 phút đi xe",
                     mt3: "- Có thể ở được 2 người",
-                    mt4: "",
-                    mt5: ""
                 }
             },
             name_chu: "",
@@ -204,7 +167,6 @@ function homes() {
                     mt2: "- Có thể ở được 2 người",
                     mt3: "- Giờ giấc tự do",
                     mt4: "- Xa trạm xe buýt",
-                    mt5: ""
                 }
             },
             name_chu: "Nguyễn Phát Thuận",
@@ -234,7 +196,6 @@ function homes() {
                     mt2: "- Diện tích phòng: 20m2",
                     mt3: "- Đầy đủ tiện nghi",
                     mt4: "- Có thể ở được 6 người",
-                    mt5: ""
                 }
             },
             name_chu: "Cô Phương Anh",
@@ -293,23 +254,12 @@ function homes() {
                     mt1: "- Diện tích phòng: 20m2",
                     mt2: "- Có thể ở được 4 người",
                     mt3: "- Phòng rộng, Có chỗ để xe",
-                    mt4: "",
-                    mt5: ""
                 }
             },
             name_chu: "Anh Sĩ",
             phone_chu: "0365455459",
             state: true,
         },
-            
-            
-            
-            
-            
-
-            
-        
-        
     ]
 }
 

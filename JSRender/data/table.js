@@ -7,7 +7,7 @@ function table() {
         },
         {
             name: "Tiếng anh mỗi ngày",
-            state: "Đang diễn ra"
+            state: "Đã diễn ra"
         },
         {
             name: "Radio hành trình yêu thương",
@@ -19,7 +19,7 @@ function table() {
         },
         {
             name: "Giải bóng đá đồng hương HCMUTE",
-            state: "Sắp diễn ra"
+            state: "Đang diễn ra"
         },
         
     ]

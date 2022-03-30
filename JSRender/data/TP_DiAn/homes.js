@@ -23,7 +23,6 @@ function homes() {
                     mt2: "2 nhà vệ sinh",
                     mt3: "Đầy đủ đồ gia dụng",
                     mt4: "Cho phép ở 4-5 sinh viên",
-                    mt5: ""
                 }
             },
             name_chu: "",
@@ -31,40 +30,6 @@ function homes() {
             state: true,
         },
 
-        {
-            img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
-            },
-            address: "Đại học Quốc Tế, Đông Hoà, Dĩ An",
-            map: false,
-            distance: 2.7,
-            info: {
-                giaphong: 1300000,
-                dien: "",
-                nuoc: "",
-                xe: "",
-                wifi: "",
-                maylanh: "",
-                rac: "",
-                description: {
-                    mt1: "Nằm trong làng đại học ",
-                    mt2: "Giờ giấc tự do",
-                    mt3: "15m^2",
-                    mt4: "Ở được 3 người",
-                    mt5: ""
-                }
-            },
-            name_chu: "Cô Xuân ",
-            phone_chu: "0938489025",
-            state: true,
-        },
-            
-
-            
-        
-        
     ]
 }
 

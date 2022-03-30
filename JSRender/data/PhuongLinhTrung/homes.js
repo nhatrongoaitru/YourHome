@@ -20,10 +20,6 @@ function homes() {
                 rac: "",
                 description: {
                     mt1: "- KTX dành cho nữ",
-                    mt2: "",
-                    mt3: "",
-                    mt4: "",
-                    mt5: ""
                 }
             },
             name_chu: "Kí Túc Xá ",
@@ -53,7 +49,6 @@ function homes() {
                     mt2: "- Có thể ở được 2 người",
                     mt3: "- Có ban công",
                     mt4: "- Không có máy lạnh",
-                    mt5: ""
                 }
             },
             name_chu: "Chú Tâm",
@@ -143,8 +138,6 @@ function homes() {
                     mt1: "- Diện tích phòng: 15m2",
                     mt2: "- Có thể ở được 4 người",
                     mt3: "- thời gian: 5h-23h",
-                    mt4: "",
-                    mt5: ""
                 }
             },
             name_chu: "Anh Bảo",
@@ -173,8 +166,6 @@ function homes() {
                     mt1: "- Diện tích phòng 10m2",
                     mt2: "- Có thể ở được 2 người",
                     mt3: "- có xe Buýt",
-                    mt4: "",
-                    mt5: ""
                 }
             },
             name_chu: " Chú Vinh ",
@@ -202,9 +193,6 @@ function homes() {
                 description: {
                     mt1: "- Diện tích phòng: 16m2",
                     mt2: "- Có thể ở được 3 người",
-                    mt3: "",
-                    mt4: "",
-                    mt5: ""
                 }
             },
             name_chu: "",
@@ -233,8 +221,6 @@ function homes() {
                     mt1: "- Diện tích phòng: 18m2",
                     mt2: "KTX chỉ cho nữ thuê",
                     mt3: "- Có thể ở được 4 người",
-                    mt4: "",
-                    mt5: ""
                 }
             },
             name_chu: "",
@@ -263,8 +249,6 @@ function homes() {
                     mt1: "- Nhà nguyên căn",
                     mt2: "- Cọc trước 6000000",
                     mt3: "- Có thể ở được 8 người",
-                    mt4: "",
-                    mt5: ""
                 }
             },
             name_chu: "Chị Ánh",
@@ -294,7 +278,6 @@ function homes() {
                     mt2: "- Có giường tầng",
                     mt3: "- Kích thước: 20m2",
                     mt4: "- Có thể ở được 8 người",
-                    mt5: ""
                 }
             },
             name_chu: "Chị Xuân ",
@@ -324,7 +307,6 @@ function homes() {
                     mt2: "- Đầy đủ nội thất",
                     mt3: "- Có thể ở được 3 người",
                     mt4: "- Gần trường",
-                    mt5: ""
                 }
             },
             name_chu: "Chị Trương ",
@@ -352,9 +334,6 @@ function homes() {
                 description: {
                     mt1: "-Diện tích phòng: 15m2",
                     mt2: "- Có thể ở được 3 người",
-                    mt3: "",
-                    mt4: "",
-                    mt5: ""
                 }
             },
             name_chu: " Cô Hạnh ",
@@ -383,8 +362,6 @@ function homes() {
                     mt1: "- Diện tích phòng: 15m2",
                     mt2: "- Có thể ở được 4 người",
                     mt3: "- Rộng rãi, thoáng mát",
-                    mt4: "",
-                    mt5: ""
                 }
             },
             name_chu: "",
@@ -413,8 +390,6 @@ function homes() {
                     mt1: "- Diện tích phòng: 12m2",
                     mt2: "- Có thể ở được 4 người",
                     mt3: "- Phòng rộng rãi, thoáng mát",
-                    mt4: "",
-                    mt5: ""
                 }
             },
             name_chu: '',
@@ -444,7 +419,6 @@ function homes() {
                     mt2: "- Có thể ở được 3 người",
                     mt3: "- Phòng đẹp, thoáng mát",
                     mt4: "- Gần trường",
-                    mt5: ""
                 }
             },
             name_chu: "Anh Thành",

@@ -1,4 +1,4 @@
-var countDownDate = new Date("01/29/2022 11:00:00").getTime();
+var countDownDate = new Date("3/31/2022 23:00:00").getTime();
 
 // countdown
 let timer = setInterval(function() {
@@ -12,28 +12,28 @@ let timer = setInterval(function() {
   let seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
   // display
-//   document.getElementById("timer").innerHTML =
-//     "<div class=\"days\"> \
-//   <div class=\"numbers\">" + days + "</div>days</div> \
-// <div class=\"hours\"> \
-//   <div class=\"numbers\">" + hours + "</div>hours</div> \
-// <div class=\"minutes\"> \
-//   <div class=\"numbers\">" + minutes + "</div>minutes</div> \
-// <div class=\"seconds\"> \
-//   <div class=\"numbers\">" + seconds + "</div>seconds</div> \
-// </div>";
+  document.getElementById("timer").innerHTML =
+    "<div class=\"days\"> \
+  <div class=\"numbers\">" + days + "</div>days</div> \
+<div class=\"hours\"> \
+  <div class=\"numbers\">" + hours + "</div>hours</div> \
+<div class=\"minutes\"> \
+  <div class=\"numbers\">" + minutes + "</div>minutes</div> \
+<div class=\"seconds\"> \
+  <div class=\"numbers\">" + seconds + "</div>seconds</div> \
+</div>";
 
 }, 1000);
 
 // pause
 
-document.getElementById("timer").innerHTML =
-"<div class=\"days\"> \
-<div class=\"numbers\">" + 0 + "</div>days</div> \
-<div class=\"hours\"> \
-<div class=\"numbers\">" + 0 + "</div>hours</div> \
-<div class=\"minutes\"> \
-<div class=\"numbers\">" + 0 + "</div>minutes</div> \
-<div class=\"seconds\"> \
-<div class=\"numbers\">" + 0 + "</div>seconds</div> \
-</div>";
+// document.getElementById("timer").innerHTML =
+// "<div class=\"days\"> \
+// <div class=\"numbers\">" + 0 + "</div>days</div> \
+// <div class=\"hours\"> \
+// <div class=\"numbers\">" + 0 + "</div>hours</div> \
+// <div class=\"minutes\"> \
+// <div class=\"numbers\">" + 0 + "</div>minutes</div> \
+// <div class=\"seconds\"> \
+// <div class=\"numbers\">" + 0 + "</div>seconds</div> \
+// </div>";

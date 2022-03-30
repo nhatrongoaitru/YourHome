@@ -41,10 +41,10 @@ const app = {
                                         <br>
                                         <li style="color: #408E9D; font-weight: 700;">Mô tả về nhà trọ: </li>
                                         <li style="padding-left: 10px;">${item.info.description.mt1}</li>
-                                        <li style="padding-left: 10px;">${item.info.description.mt2}</li>
-                                        <li style="padding-left: 10px;">${item.info.description.mt3}</li>
-                                        <li style="padding-left: 10px;">${item.info.description.mt4}</li>
-                                        <li style="padding-left: 10px;">${item.info.description.mt5}</li>
+                                        <li style="padding-left: 10px;">${item.info.description.mt2 == undefined ? "" : item.info.description.mt2}</li>
+                                        <li style="padding-left: 10px;">${item.info.description.mt3 == undefined ? "" : item.info.description.mt3}</li>
+                                        <li style="padding-left: 10px;">${item.info.description.mt4 == undefined ? "" : item.info.description.mt4}</li>
+                                        <li style="padding-left: 10px;">${item.info.description.mt5 == undefined ? "" : item.info.description.mt5}</li>
                                         
                                     </ul>
                                     </div>
