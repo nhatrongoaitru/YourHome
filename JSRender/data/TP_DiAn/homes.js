@@ -3,9 +3,9 @@ function homes() {
     [
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "Chung cư Bcons Miền Đông - 45 đường Tân Lập, P. 14, Dĩ An",
             map: "https://goo.gl/maps/ryaUMFa8o8kqex2W6",

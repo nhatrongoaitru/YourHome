@@ -4,9 +4,9 @@ function homes() {
         
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "Chung cư Topaz home 2 - đường 154, KP4, phường Tân Phú",
             map:" https://goo.gl/maps/J2abrLuSVWvXmNfK8" ,
@@ -34,9 +34,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "KTX Lustay- Số 42 đường D1 - Phường Tân Phú",
             map:" https://goo.gl/maps/MWsYEHecK62iQfco8" ,
@@ -63,9 +63,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "47 Đường 120, Phường Tân Phú",
             map: " https://goo.gl/maps/YV7Lu3XPRLZUmY3G7" ,
@@ -93,9 +93,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "228 Đường Man Thiện, Phường Tân Phú",
             map: " https://goo.gl/maps/pBPjZxDa5Wru8oM4A" ,
@@ -124,9 +124,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "49c Đường 100, Phường Tân Phú",
             map: "https://goo.gl/maps/XAX9mdK3XozDPSUH9" ,
@@ -155,9 +155,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "8 Đường 120, Phường Tân Phú",
             map: "https://goo.gl/maps/329LqsR96RcVV1RWA " ,
@@ -186,9 +186,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "42 Đường D1, Phường Tân Phú",
             map: " https://goo.gl/maps/coeZY4S5XpwTAFaC6" ,
@@ -215,9 +215,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "43 Đường 120, Phường Tân Phú",
             map: "https://goo.gl/maps/1abpgK6EkogvBX668 " ,
@@ -246,9 +246,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "82 Đường số 138, Phường Tân Phú",
             map: "https://goo.gl/maps/1ftJcK5aUVpXzNPW8 " ,
@@ -275,9 +275,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "Đường số 138, Tân Phú, Quận 9",
             map: "https://goo.gl/maps/rmyWtFnWL6ggWT4S9 " ,
@@ -304,9 +304,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "120 Trường Chinh, Tây Thạnh, Tân Phú",
             map:" https://goo.gl/maps/rsiQJcU8rFBvjvnJA" ,
@@ -331,9 +331,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "Đường 120, phường Tân Phú, Quận 9",
             map: " https://goo.gl/maps/owCDjSpU2fM5ToqT6" ,
@@ -361,9 +361,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "Đường số 138, phường Tân Phú",
             map: "https://goo.gl/maps/iroQoooasHHN9VUt8 " ,
@@ -392,9 +392,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "7 Đ. Tân Hòa 2, Phường Tân Phú",
             map: "https://goo.gl/maps/sMj1hDpEAxGASgdP6 " ,
@@ -420,9 +420,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "38 Đường 904, Phường Tân Phú",
             map:"https://goo.gl/maps/qmrACWkfRLAT22pD9 " ,
@@ -450,9 +450,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "7 Đ. Tân Hòa 2, Phường Tân Phú",
             map: "https://goo.gl/maps/AHe31KstnAHg7mBw8 " ,
@@ -480,9 +480,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "42 Đường D1, Phường Tân Phú",
             map:" https://goo.gl/maps/CKAv5WvrnvdnZ2Vg7" ,
@@ -510,9 +510,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "2 Đường số 17, Phường Tân Phú",
             map: "https://goo.gl/maps/veZ6YExi3gUi5wmPA " ,
@@ -538,9 +538,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "74 Đường Tân Lập 2, Phường Tân Phú",
             map: "https://goo.gl/maps/2nnbtEZiLudPCCeTA " ,

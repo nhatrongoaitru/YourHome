@@ -3,9 +3,9 @@ function homes() {
     [
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "Nhà trọ An Bình - 63/3C1 Đường số 36, Phường Linh Đông",
             map: "https://goo.gl/maps/VyFe1wE8DpHUSpAh8",
@@ -34,9 +34,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "Nhà trọ An Bình - 47 Đường số 30, phường Linh Đông",
             map:  "https://goo.gl/maps/HLdFmJE9MeGJ4vkf8",
@@ -62,9 +62,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "Nhà trọ An Bình - 526/35 Phạm Văn Đồng, phường Linh Đông",
             map: "https://goo.gl/maps/CdeK3jGY2TKNhUMA9 ",
@@ -89,9 +89,9 @@ function homes() {
         
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "63 Đường 36, phường Linh Đông",
             map: "https://goo.gl/maps/Z4nrBCUsEDmorBY38 " ,
@@ -119,9 +119,9 @@ function homes() {
         
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "247 đường Tô Ngọc Vân, phường Linh Đông",
             map:"https://goo.gl/maps/4Sw1o4Kvcd6cRwig7 ",
@@ -147,9 +147,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "76 Đường 36 , phường Linh Đông",
             map: "https://goo.gl/maps/n2JciW5VbGXJD2Py9",
@@ -176,9 +176,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "19 Đường số 14, phường Linh Đông",
             map: "https://goo.gl/maps/rU1LzMtx1GL1mDr76 ",
@@ -205,9 +205,9 @@ function homes() {
         
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "Nhà trọ An Bình - 63/3c1 đường số 36, phường Linh Đông",
             map: "https://goo.gl/maps/n2JciW5VbGXJD2Py9",
@@ -235,9 +235,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "17H Đường 22, Khu phố 7, phường Linh Đông",
             map:" https://goo.gl/maps/mTcmVgHqU6Tb2iHf6",

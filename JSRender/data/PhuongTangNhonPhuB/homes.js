@@ -5,9 +5,9 @@ function homes() {
         
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "25 Số 6, phường Tăng Nhơn Phú B",
             map: "https://goo.gl/maps/5zFSR7G1CAZVm9R47",
@@ -36,9 +36,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "Số 5, phường Tăng Nhơn Phú B",
             map: "https://goo.gl/maps/BP8xjkUA4ezEGSpt5",
@@ -63,9 +63,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "103 Đường Số 11, Tăng Nhơn Phú B",
             map: "https://goo.gl/maps/eC8AnJkk69LBpQVbA",
@@ -94,9 +94,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "31 Đường Số 8, Tăng Nhơn Phú B",
             map: "https://goo.gl/maps/XU23jrWkLaCA53Nt9",
@@ -121,9 +121,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "57 Đường Số 3, Tăng Nhơn Phú b",
             map: "https://goo.gl/maps/N3oVZ6pBjcRnJNP6A",
@@ -149,9 +149,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "113 Trương Văn Hải, Tăng Nhơn Phú B",
             map: "https://goo.gl/maps/8d3GDjXyUwpLBnxo8",
@@ -177,9 +177,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "119 Trương Văn Hải, Tăng Nhơn Phú B",
             map: "https://goo.gl/maps/p8vHiBnp8jw2sWoe6",

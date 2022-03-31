@@ -5,9 +5,9 @@ function homes() {
         
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "172 Bưng Ông Thoàn, Phường Phú Hữu",
             map: "https://goo.gl/maps/5F2giaF88vgfUtDn7   ",
@@ -35,9 +35,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "12 Bưng Ông Thoàn",
             map:" https://goo.gl/maps/Fd1fjBpHc4NnD5aA8  ",
@@ -65,9 +65,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "200 Bưng Ông Thoàn",
             map:" https://goo.gl/maps/VuchPB2km29SMaa77  ",
@@ -94,9 +94,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "172  Bưng Ông Thoàn, Phường Phú Hữu",
             map: " https://goo.gl/maps/DPrYddsPTmyDNvZ17  ",
@@ -123,9 +123,9 @@ function homes() {
 
         {
             img_phong: {
-                img1: "../../../img/Street/NhaTroTrong.jpg" ,
-                img2: "../../../img/Street/NhaTroTrong.jpg" ,
-                img3: "../../../img/Street/NhaTroTrong.jpg" ,
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
             },
             address: "12 Bưng Ông Thoàn, phường Phú Hữu",
             map:" https://goo.gl/maps/C42dK9NL2e5k76di6  ",
