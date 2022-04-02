@@ -1,7 +1,7 @@
 /* Mobile & Tablet */
 @media (max-width: 1023px) {
     #main, #fb-root, #fb-customer-chat {
-        display: none !important;
+        display: none;
     }
     body {
         position: absolute;
@@ -14,7 +14,7 @@
         color: red;
         font-size: 30px;
         line-height: 50px;
-        display: flex;
+        display: flex !important;
         justify-content: center;
         align-items: center;
         text-align: center;
