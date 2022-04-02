@@ -7,6 +7,34 @@ function homes() {
                 img2: "../img/Street/NhaTroTrong.jpg" ,
                 img3: "../img/Street/NhaTroTrong.jpg" ,
             },
+            address: "54, đường số 8, phường Linh Trung",
+            map: "https://bitly.com.vn/d4nxwq",
+            distance: 1.8 ,
+            info: {
+                giaphong: 26000000,
+                dien: "3000",
+                nuoc: "45000/người/tháng",
+                xe: "90000/chiếc/tháng",
+                wifi: "60000/người/tháng",
+                maylanh: "200000/tháng",
+                rac: "30000/tháng",
+                description: {
+                    mt1: "Chỗ ở sạch sẽ, thoáng mát",
+                    mt2: "Chị chủ và cô chú bảo vệ rất dễ thương",
+                    mt3: "Có chỗ phơi đồ và chỗ để xe",
+                    mt4: "Trọ có gác và kệ bếp"
+                }
+            },
+            name_chu: "Chị Nguyên",
+            phone_chu: "0907455655",
+            state: true,
+        },
+        {
+            img_phong: {
+                img1: "../img/Street/NhaTroTrong.jpg" ,
+                img2: "../img/Street/NhaTroTrong.jpg" ,
+                img3: "../img/Street/NhaTroTrong.jpg" ,
+            },
             address: "148 Hoàng Diệu 2, phường Linh Trung",
             map: "https://goo.gl/maps/UJUXnmAgPgcyfiB67 ",
             distance: 1.4 ,

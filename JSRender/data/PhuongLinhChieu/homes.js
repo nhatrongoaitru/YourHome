@@ -24,7 +24,7 @@ function homes() {
                     mt2: "- Có thể ở được 4 người",
                 }
             },
-            name_chu: " Cô Hà ",
+            name_chu: "Cô Hà",
             phone_chu: "0937792497",
             state: true,
         },
@@ -52,7 +52,7 @@ function homes() {
                     mt3: "- Thoáng mát, cuối hẻm",
                 }
             },
-            name_chu: "Anh Sử ",
+            name_chu: "Anh Sử",
             phone_chu: "0967929848",
             state: true,
         },
@@ -82,7 +82,7 @@ function homes() {
                     mt4: "- Gần KTX D1",
                 }
             },
-            name_chu: " ",
+            name_chu: "",
             phone_chu: "0983635898",
             state: true,
         },
@@ -228,7 +228,7 @@ function homes() {
                     mt4: "- Cọc 10%",
                 }
             },
-            name_chu: " ",
+            name_chu: "",
             phone_chu: "0356861137",
             state: true,
         },
@@ -258,7 +258,7 @@ function homes() {
                     mt4: "- Ở được 1 người",
                 }
             },
-            name_chu: " ",
+            name_chu: "",
             phone_chu: "0356861137",
             state: true,
         },
@@ -344,7 +344,7 @@ function homes() {
                     mt5: "- Có thể ở được 6 người"
                 }
             },
-            name_chu: " ",
+            name_chu: "",
             phone_chu: "0382210297",
             state: true,
         },
