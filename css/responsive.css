@@ -1,7 +1,7 @@
 /* Mobile & Tablet */
 @media (max-width: 1023px) {
     #main, #fb-root, #fb-customer-chat {
-        display: none;
+        display: none !important;
     }
     body {
         position: absolute;
