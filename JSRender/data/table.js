@@ -10,6 +10,10 @@ function table() {
             state: "Đã diễn ra"
         },
         {
+            name: "Giải bóng đá đồng hương HCMUTE",
+            state: "Đã diễn ra"
+        },
+        {
             name: "Radio hành trình yêu thương",
             state: "Đang diễn ra"
         },
@@ -17,10 +21,7 @@ function table() {
             name: "Find your home",
             state: "Đang diễn ra"
         },
-        {
-            name: "Giải bóng đá đồng hương HCMUTE",
-            state: "Đang diễn ra"
-        },
+       
         
     ]
 }

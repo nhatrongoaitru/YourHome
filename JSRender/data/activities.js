@@ -12,11 +12,15 @@ function activities() {
             link: "https://www.facebook.com/hashtag/bpthsv_lchsvnt"
         },
         {
-            img: "./img/Activities/XTN.jpg",
+            img: "./img/Activities/Radio.png",
             content: "Radio Hành Trình Yêu Thương",
             link: "https://www.facebook.com/hashtag/radiohanhtrinhyeuthuong"
         },
-       
+        {
+            img: "./img/Activities/BongDaHDH.png",
+            content: "Giải bóng đá các Hội đồng hương",
+            link: "https://www.facebook.com/hashtag/giaibongdalchsvnt"
+        },
     ]
 }
 
