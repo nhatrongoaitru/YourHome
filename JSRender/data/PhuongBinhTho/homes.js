@@ -1,7 +1,6 @@
 function homes() {
     return homes =
     [
-
         {
             img_phong: {
                 img1: "../img/Street/NhaTroTrong.jpg" ,
@@ -20,7 +19,7 @@ function homes() {
                 maylanh: "",
                 rac: "",
                 description: {
-                    mt1: "-Trọ mới 100%",
+                    mt1: "- Trọ mới 100%",
                     mt2: "- Phòng có máy lạnh",
                     mt3: "- Cách trường 5 phút",
                     mt4: "- Có thể ở được 3 người",
@@ -88,7 +87,7 @@ function homes() {
                 }
             },
             name_chu: "Anh Hải",
-            phone_chu: "0909642711",
+            phone_chu: "0909642711",  
             state: true,
         },
 
