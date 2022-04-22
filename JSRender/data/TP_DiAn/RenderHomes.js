@@ -1,9 +1,6 @@
 import homes from './homes.js'
 
 var  arrHomes = Object.values(homes())
-const room_avail = [];
-const room_unavail = [];
-
 
 const app = {
     start: function() {
@@ -53,7 +50,7 @@ const app = {
                             <div class="avatar">
                             <div class="info-admin">
                                 <div class="name"><i class="far fa-address-card"></i>${item.name_chu != '' ? item.name_chu : "Đang cập nhật"}</div>
-                                <div class="phone"><i class="fas fa-phone-alt"></i>${item.phone_chu != '' ? item.phone_chu : "Đang cập nhật"}</div>
+                                <div class="phone"><a href="tel:${item.phone_chu}"><i class="fas fa-phone-alt"></i>${item.phone_chu != '' ? item.phone_chu : "Đang cập nhật"}</a></div>
                                 </div>
                         </div>
                         </div>
@@ -101,8 +98,7 @@ const app = {
                         <div class="avatar">
                         <div class="info-admin">
                             <div class="name"><i class="far fa-address-card"></i>${item.name_chu != '' ? item.name_chu : "Đang cập nhật"}</div>
-                            <div class="phone"><i class="fas fa-phone-alt"></i>${item.phone_chu != '' ? item.phone_chu : "Đang cập nhật"}</div>
-                            </div>
+                            <div class="phone"><a href="tel:${item.phone_chu}"><i class="fas fa-phone-alt"></i>${item.phone_chu != '' ? item.phone_chu : "Đang cập nhật"}</a></div>
                             </div>
                     </div>
                     </div>

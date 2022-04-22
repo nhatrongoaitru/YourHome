@@ -195,8 +195,9 @@ i {
     color: #408E9D;
 }
 
-.info-admin .phone {
+.info-admin .phone a {
     color: #408E9D;
+    text-decoration: none;
 
 }
 
